@@ -14,7 +14,8 @@ This keyboard library is used for resetting the averaged live data by the user t
 In order to measure ADC input frequencies above a few Megahertz, you should think about signal integrity issues.
 The NUCLEO-H743ZI is not actually built for feeding MHz-signals to the ADC inputs, so you have to think about techniques for doing it as well as possible.
 
-Some results can be found on my [homepage](https://dm1cr.de/)
+Some results can be found on my [homepage](https://dm1cr.de/).
+
 Some pictures, showing ways of how to connect RF signals to the ADC inputs, can be found there, too.
 
 
